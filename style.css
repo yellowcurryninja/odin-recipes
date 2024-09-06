@@ -1,0 +1,19 @@
+
+.description {
+    font-family: "Helvetica", sans-serif;
+    font-size: 21px;
+}
+
+h1,
+h2 {
+
+    font-family: "Helvetica", sans-serif; 
+}
+
+ul,
+ol {
+    font-size: 19px;
+    font-style: italic;
+    font-family: "Helvetica", sans-serif; 
+
+}
