@@ -1,3 +1,124 @@
+* {
+    margin: 0;
+
+}
+
+.whycook {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: 60% 0;
+    margin: 20px auto;
+    display: block;
+}
+
+.Heggfriedrice {
+    width: 550px;
+    height: 800px;
+    object-fit: cover;
+    object-position: 50% 0;
+    margin: 7px auto;
+    display: block;
+}
+.li-rice {
+    text-align: center;
+    font-size: 30px;
+}
+.li-naan {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.heading-two {
+    text-align: center;
+    font-family: 'Times New Roman',serif;
+    font-size: 30px;
+    background-color: #FFF34C;
+    margin: 0px 750px;
+}
+
+.whycooktext {
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    margin: 25px auto;
+    font-size: 24px;
+    margin-bottom: 200px;
+}
+.recipes {
+    font-family: 'Palatino', serif;
+    list-style-type: none;
+}
+
+.Hnaan {
+    
+    width: 550px;
+    height: 800px;
+    object-fit: cover;
+    object-position: 50% 0;
+    margin: 7px auto;
+    display: block; 
+}
+
+
+.metadata {
+    text-align: center;
+}
+
+.time {
+    background-color: #FFF34C;
+    font-family: "Arial Black", sans-serif;
+    font-size: 14px;
+    padding: 4px; 
+    border-radius: 5px;  
+}
+.difficulty {
+    background-color: #03a919;
+    font-family: "Arial Black", sans-serif;
+    font-size: 14px;
+    padding: 4px;
+    border-radius: 5px;       
+}
+
+/* THIS DOESNT WORK, NEED TO FIX THIS */
+.li-naan .metadata .difficulty {
+    background-color: red;
+}
+/* THIS DOESNT WORK, NEED TO FIX THIS */
+
+.Sdescription {
+    
+    text-align: center;
+    width: 500px;
+    margin: 5px auto;
+    font-size: 21px;
+    font-family: 'Georgia', serif;
+    margin-top: 18px;
+    margin-bottom: 20px;
+}
+.Sdescription P {
+    margin-top: 24px;
+}
+
+.Sdescription a {
+    margin-top: 20px;
+    display: block;
+    font-style: italic;
+}
+
+.recipes {
+    font-size: 22px;
+}
+
+
+.heading {
+    margin: 20px auto;
+    text-align: center;
+    border-bottom: 7px double rgb(143, 140, 140);
+    font-family: "Monaco", monospace;
+    font-size: 100px;
+    color: #343430;
+}
 
 .description {
     font-family: "Helvetica", sans-serif;
@@ -6,11 +127,11 @@
 
 h1,
 h2 {
-
+    
     font-family: "Helvetica", sans-serif; 
 }
 
-ul,
+
 ol {
     font-size: 19px;
     font-style: italic;
